@@ -5,4 +5,3 @@
 ![neofetch](neofetch.png)
 ![script](script.png)
 
- 
