@@ -21,6 +21,7 @@
    * A complete Linux system package is called a Linux Distribution. Linux Kernel, Core Unix tools, supplemental Software, startup scripts, An Installer
 * **What is Ubuntu:**
    * Is a Linux Distribution, freely available with both community and professional support.
+   * 
 * **Ubuntu Release cycles:**
   * Regular is shipped every six months and supported for 9 months. Long Term Support is shipped every two even years and supported for 5 years.
 * **What is Debian:**
