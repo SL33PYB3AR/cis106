@@ -1,5 +1,5 @@
 ---
-name: you name here 
+name: Geovanny Ruiz 
 semester: fall 22 
 course: cis106
 ---
